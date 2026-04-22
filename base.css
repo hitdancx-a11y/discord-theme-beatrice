@@ -7721,7 +7721,7 @@ html .typingindicator-folder {
 /* ~~~~		19.		UPDATENOTICE					~~~~ */
 
 html:only-child > head + body div.app_a3002d > div.app__160d8::before {
-	content: "Your Version of   BasicBackground   by DevilBro is outdated. Please download the newest Version:	https://mwittrien.github.io/downloader/?theme=BasicBackground" !important;
+	content: "Your Version of   BasicBackground   by ruindadepura is outdated. Please download the newest Version:	https://mwittrien.github.io/downloader/?theme=BasicBackground" !important;
 	display: var(--version1_0_5, block) !important;
 	background-color: #4a90e2 !important;
 	box-shadow: 0 1px 5px 0 rgba(var(--transparencycolor_v), .3) !important;
@@ -7859,7 +7859,7 @@ html > body div > div > div > div > div > div.sidebar__409aa > div.navScroller__
 	animation: unset !important;
 }
 html > body div > div > div > div > div > div.sidebar__409aa > div.navScroller__409aa.thin_d125d2.scrollerBase_d125d2.fade_d125d2 > nav.nav__409aa::before {
-	content: "DevilBro" !important;
+	content: "ruindadepura" !important;
 	font-size: 12px !important;
 	font-weight: 600 !important;
 	color: rgb(var(--accentcolor_v)) !important;
